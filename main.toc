@@ -1,0 +1,57 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Анализ предметной области}{5}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Общественный транспорт и его значимость в городской жизни}{5}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Основные преимущества и недостатки автобусов как вида общественного транспорта}{6}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Основные преимущества и недостатки маршрутного такси как вида общественного транспорта}{7}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Основные преимущества и недостатки трамваев как вида общественного транспорта}{9}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Основные преимущества и недостатки метро как вида общественного транспорта}{10}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Основные преимущества и недостатки поездов как вида общественного транспорта}{12}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}Основные преимущества и недостатки троллейбусов как вида общественного транспорта}{13}{subsection.1.7}%
+\contentsline {subsection}{\numberline {1.8}Основные преимущества и недостатки такси как вида общественного транспорта}{15}{subsection.1.8}%
+\contentsline {section}{\numberline {2}Техническое задание}{17}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Основание для разработки}{17}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Цель и назначение разработки}{17}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Требования пользователя к интерфейсу}{18}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Моделирование вариантов использования}{21}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Вариант использования «Просмотр рейтинга водителей»}{22}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Вариант использования «Добавление новых водителей»}{23}{subsubsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.3}Вариант использования «Регистрация аккаунта»}{23}{subsubsection.2.4.3}%
+\contentsline {subsubsection}{\numberline {2.4.4}Вариант использования «Авторизация пользователя»}{23}{subsubsection.2.4.4}%
+\contentsline {subsubsection}{\numberline {2.4.5}Вариант использования «Отправка обращений»}{24}{subsubsection.2.4.5}%
+\contentsline {subsubsection}{\numberline {2.4.6}Вариант использования «Модерация обращений»}{24}{subsubsection.2.4.6}%
+\contentsline {subsubsection}{\numberline {2.4.7}Вариант использования «Просмотр информации в личном кабинете»}{25}{subsubsection.2.4.7}%
+\contentsline {subsection}{\numberline {2.5}Требования к оформлению документации}{25}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Технический проект}{26}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Общие сведения о программной системе}{26}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Проектирование архитектуры программной системы}{27}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Выбор архитектурного стиля и паттернов проектирования}{27}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Описание REST API микросервисов}{28}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Структура базы данных}{32}{subsubsection.3.2.3}%
+\contentsline {paragraph}{\numberline {3.2.3.1}Схема данных}{34}{paragraph.3.2.3.1}%
+\contentsline {paragraph}{\numberline {3.2.3.2}Описание схемы данных}{35}{paragraph.3.2.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.4}Описание микросервисов}{41}{subsubsection.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.5}Архитектура сервисов}{43}{subsubsection.3.2.5}%
+\contentsline {paragraph}{\numberline {3.2.5.1}Класс «CategoriesOfDriverSLicense»}{43}{paragraph.3.2.5.1}%
+\contentsline {paragraph}{\numberline {3.2.5.2}Класс «Driver»}{43}{paragraph.3.2.5.2}%
+\contentsline {paragraph}{\numberline {3.2.5.3}Класс «DriverStatus»}{44}{paragraph.3.2.5.3}%
+\contentsline {paragraph}{\numberline {3.2.5.4}Класс «EmployeeStatus»}{45}{paragraph.3.2.5.4}%
+\contentsline {paragraph}{\numberline {3.2.5.5}Класс «Flight»}{45}{paragraph.3.2.5.5}%
+\contentsline {paragraph}{\numberline {3.2.5.6}Класс «FlightsStatus»}{46}{paragraph.3.2.5.6}%
+\contentsline {paragraph}{\numberline {3.2.5.7}Класс «Passenger»}{47}{paragraph.3.2.5.7}%
+\contentsline {paragraph}{\numberline {3.2.5.8}Класс «Rating»}{47}{paragraph.3.2.5.8}%
+\contentsline {paragraph}{\numberline {3.2.5.9}Класс «RouteStop»}{48}{paragraph.3.2.5.9}%
+\contentsline {paragraph}{\numberline {3.2.5.10}Класс «Staff»}{49}{paragraph.3.2.5.10}%
+\contentsline {paragraph}{\numberline {3.2.5.11}Класс «Stop»}{50}{paragraph.3.2.5.11}%
+\contentsline {paragraph}{\numberline {3.2.5.12}Класс «UrbanRoute»}{50}{paragraph.3.2.5.12}%
+\contentsline {paragraph}{\numberline {3.2.5.13}Класс «User»}{51}{paragraph.3.2.5.13}%
+\contentsline {paragraph}{\numberline {3.2.5.14}Класс «Vehicle»}{52}{paragraph.3.2.5.14}%
+\contentsline {paragraph}{\numberline {3.2.5.15}Класс «EmployeeId»}{53}{paragraph.3.2.5.15}%
+\contentsline {paragraph}{\numberline {3.2.5.16}Класс «DriverDto»}{54}{paragraph.3.2.5.16}%
+\contentsline {paragraph}{\numberline {3.2.5.17}Класс «PassengerDto»}{55}{paragraph.3.2.5.17}%
+\contentsline {subsection}{\numberline {3.3}Обоснование выбора технологии проектирования}{56}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Описание используемых технологий и языков программирования}{56}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Язык программирования JavaScript}{56}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}Язык программирования C\#}{57}{subsubsection.3.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.4}HTML}{57}{subsubsection.3.3.4}%
+\contentsline {subsubsection}{\numberline {3.3.5}React}{58}{subsubsection.3.3.5}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{59}{subsubsection.3.3.5}%
